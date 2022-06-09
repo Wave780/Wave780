@@ -1,8 +1,3 @@
-### Hi there 👋
-
-I'm Emmanuel,I develop on mobile (Andriod & ios),  I do content on tech. , developer's life style and mobile development. I really enjoy learning language and frameworks like flutter.
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wave780)](https://github.com/anuraghazra/github-readme-stats)
 
 <h1 align="center">Hi 👋, I'm Jonah Oghenetega Emmanuel</h1>
 <h3 align="center">A passionate mobile developer and a mentor</h3>
