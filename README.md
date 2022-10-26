@@ -1,6 +1,8 @@
 
+<!-- ![cover picture](https://user-images.githubusercontent.com/88734721/198148405-26dae659-d2a1-4cbb-ba94-364ba1ed29ae.png) -->
+<img src= "./cover_picture.png" width="100%"/>
 
-<a href="#"><img width="100%" height="auto" src="https://twitter.com/Emma12Jonah/header_photo" height="175px"/></a>
+
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Emmanuel</h1>
 <h3 align="center">I'm a passionate Developer from Nigeria.</h3>
